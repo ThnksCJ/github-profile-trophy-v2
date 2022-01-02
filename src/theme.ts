@@ -25,7 +25,7 @@ export const COLORS: {[name: string]: Theme} = {
   },
   dark: {
     BACKGROUND: "#151515",
-    TITLE: "#fefefe",
+    TITLE: "#fb8c00",
     ICON_CIRCLE: "#f8f8f2",
     TEXT: "#f8f8f2",
     LAUREL: "#50fa7b",
