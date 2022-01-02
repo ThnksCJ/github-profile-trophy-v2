@@ -25,9 +25,9 @@ export const COLORS: {[name: string]: Theme} = {
   },
   dark: {
     BACKGROUND: "#282a36",
-    TITLE: "#ff79c6",
+    TITLE: "#fb8c00",
     ICON_CIRCLE: "#f8f8f2",
-    TEXT: "#f8f8f2",
+    TEXT: "#fb8c00",
     LAUREL: "#50fa7b",
     SECRET_RANK_1: "#ff5555",
     SECRET_RANK_2: "#ff79c6",
