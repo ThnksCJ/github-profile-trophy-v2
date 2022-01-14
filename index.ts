@@ -43,7 +43,7 @@ export default async (req: ServerRequest) => {
   if (username === null) {
     req.respond(
       {
-        body: "Can not find a query parameter: username",
+        body: "Can not find a query parameter: username. Please Use the ?username parameter",
         status: 404,
         headers: new Headers({ "Content-Type": "text" }),
       },
