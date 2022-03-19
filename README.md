@@ -4,7 +4,7 @@ To enable a theme, append `&theme=` followed by the theme name to the end of you
 
 # Example
 
-`https://github-profile-trophy.cjstevenson.com/?username=ThnksCJ&theme=dark`
+`https://trophy.cjstevenson.com/?username=ThnksCJ&theme=onedark`
 
 # List Of Available Themes
 
